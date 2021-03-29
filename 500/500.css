@@ -2,8 +2,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.0.woff2") format("woff2"),
-    url("500.0.woff") format("woff");
+  src: url("500.0.woff2") format("woff2"), url("500.0.woff") format("woff");
   unicode-range: U+F9CA-FA0B, U+FF03-FF05, U+FF07, U+FF0A-FF0B, U+FF0D-FF19,
     U+FF1B, U+FF1D, U+FF20-FF5B, U+FF5D, U+FFE0-FFE3, U+FFE5-FFE6;
 }
@@ -12,8 +11,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.1.woff2") format("woff2"),
-    url("500.1.woff") format("woff");
+  src: url("500.1.woff2") format("woff2"), url("500.1.woff") format("woff");
   unicode-range: U+F92F-F980, U+F982-F9C9;
 }
 
@@ -21,8 +19,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.10.woff2") format("woff2"),
-    url("500.10.woff") format("woff");
+  src: url("500.10.woff2") format("woff2"), url("500.10.woff") format("woff");
   unicode-range: U+D1B4, U+D1B6-D1F3, U+D1F5-D22B, U+D22E-D22F, U+D231-D233,
     U+D235-D23B, U+D23D-D240, U+D242-D256;
 }
@@ -31,8 +28,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.100.woff2") format("woff2"),
-    url("500.100.woff") format("woff");
+  src: url("500.100.woff2") format("woff2"), url("500.100.woff") format("woff");
   unicode-range: U+E8, U+2DA, U+2160, U+2194, U+3054, U+3058, U+306D, U+3086,
     U+308D, U+30AC, U+30BB, U+30C4, U+30CD-30CE, U+30E2, U+3132, U+3146, U+3149,
     U+339D, U+4E3B, U+4F0A, U+4FDD, U+4FE1, U+5409, U+540C, U+5834, U+592A-592B,
@@ -50,8 +46,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.101.woff2") format("woff2"),
-    url("500.101.woff") format("woff");
+  src: url("500.101.woff2") format("woff2"), url("500.101.woff") format("woff");
   unicode-range: U+3B1, U+2466, U+25A1, U+25A3, U+261C, U+3008-3009, U+305B,
     U+305D, U+3069, U+30A7, U+30BA, U+30CF, U+30EF, U+3151, U+3157, U+4E4B,
     U+4E5F, U+4E8C, U+4ECA, U+4ED6, U+4F5B, U+50CF, U+5149, U+5165, U+5171,
@@ -70,8 +65,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.102.woff2") format("woff2"),
-    url("500.102.woff") format("woff");
+  src: url("500.102.woff2") format("woff2"), url("500.102.woff") format("woff");
   unicode-range: U+131, U+2032, U+2465, U+2642, U+3048, U+3051, U+3083-3084,
     U+308F, U+30C0, U+30D1, U+30D3, U+30D6, U+30DF, U+30E7, U+3153, U+4E16,
     U+4E8B, U+4EE5, U+5206, U+52A0, U+52D5, U+53E4, U+53EF, U+54C1, U+57CE,
@@ -90,8 +84,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.103.woff2") format("woff2"),
-    url("500.103.woff") format("woff");
+  src: url("500.103.woff2") format("woff2"), url("500.103.woff") format("woff");
   unicode-range: U+B4, U+20A9, U+20AC, U+2190, U+24D8, U+2502, U+2514, U+2592,
     U+25C7-25C8, U+2663, U+3060, U+3064, U+3081, U+3088, U+30A3, U+30A6, U+30AA,
     U+30B5, U+30C7, U+30CA-30CB, U+30D0, U+30E3, U+30E5, U+339E, U+4E09, U+4EAC,
@@ -109,8 +102,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.104.woff2") format("woff2"),
-    url("500.104.woff") format("woff");
+  src: url("500.104.woff2") format("woff2"), url("500.104.woff") format("woff");
   unicode-range: U+2161, U+2228, U+2299, U+2464, U+2517, U+2640, U+3042, U+304A,
     U+3053, U+3061, U+307F, U+3082, U+308C, U+3092, U+30A8, U+30AB, U+30AD,
     U+30B0, U+30B3, U+30B7, U+30C1, U+30C6, U+30C9, U+30D5, U+30D7, U+30DE,
@@ -129,8 +121,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.105.woff2") format("woff2"),
-    url("500.105.woff") format("woff");
+  src: url("500.105.woff2") format("woff2"), url("500.105.woff") format("woff");
   unicode-range: U+2103, U+2463, U+25C6, U+25CB, U+266C, U+3001, U+300A, U+3046,
     U+304C-304D, U+304F, U+3055, U+3059, U+3063, U+3066-3068, U+306F, U+3089,
     U+30B8, U+30BF, U+314F, U+4E0A, U+570B, U+5730, U+5916, U+5929, U+5C71,
@@ -148,8 +139,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.106.woff2") format("woff2"),
-    url("500.106.woff") format("woff");
+  src: url("500.106.woff2") format("woff2"), url("500.106.woff") format("woff");
   unicode-range: U+2039-203A, U+223C, U+25B3, U+25B7, U+25BD, U+25CF, U+266A,
     U+3002, U+300B, U+304B, U+3057, U+305F, U+306A-306B, U+307E, U+308A-308B,
     U+3093, U+30A2, U+30AF, U+30B9, U+30C3, U+30C8, U+30E9-30EB, U+33A1, U+4E00,
@@ -167,8 +157,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.107.woff2") format("woff2"),
-    url("500.107.woff") format("woff");
+  src: url("500.107.woff2") format("woff2"), url("500.107.woff") format("woff");
   unicode-range: U+B0, U+E9, U+2193, U+2462, U+260E, U+261E, U+300E-300F, U+3044,
     U+30A4, U+30FB-30FC, U+314D, U+5973, U+6545, U+6708, U+7537, U+AC89, U+AC9C,
     U+ACC1, U+AD04, U+AD75, U+AD7D, U+AE45, U+AE61, U+AF42, U+B0AB, U+B0AF,
@@ -186,8 +175,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.108.woff2") format("woff2"),
-    url("500.108.woff") format("woff");
+  src: url("500.108.woff2") format("woff2"), url("500.108.woff") format("woff");
   unicode-range: U+E0, U+E2, U+395, U+3B7, U+3BA, U+2460-2461, U+25A0,
     U+3010-3011, U+306E, U+30F3, U+314A, U+314C, U+5927, U+65B0, U+7E41, U+97D3,
     U+9AD4, U+AD49, U+AE0B, U+AE0D, U+AE43, U+AE5D, U+AECF, U+AF3C, U+AF64,
@@ -206,8 +194,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.109.woff2") format("woff2"),
-    url("500.109.woff") format("woff");
+  src: url("500.109.woff2") format("woff2"), url("500.109.woff") format("woff");
   unicode-range: U+24, U+60, U+3B9, U+3BB, U+3BD, U+2191, U+2606, U+300C-300D,
     U+3131, U+3134, U+3139, U+3141-3142, U+3148, U+3161, U+3163, U+321C, U+4EBA,
     U+5317, U+AC31, U+AC77, U+AC9F, U+ACB9, U+ACF0-ACF1, U+ACFD, U+AD73, U+AF3D,
@@ -225,8 +212,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.11.woff2") format("woff2"),
-    url("500.11.woff") format("woff");
+  src: url("500.11.woff2") format("woff2"), url("500.11.woff") format("woff");
   unicode-range: U+D105-D12F, U+D132-D133, U+D135-D137, U+D139-D13F, U+D141-D142,
     U+D144, U+D146-D14B, U+D14E-D14F, U+D151-D153, U+D155-D15B, U+D15E-D187,
     U+D189-D19F, U+D1A2-D1A3, U+D1A5-D1A7, U+D1A9-D1AF, U+D1B2-D1B3;
@@ -236,8 +222,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.110.woff2") format("woff2"),
-    url("500.110.woff") format("woff");
+  src: url("500.110.woff2") format("woff2"), url("500.110.woff") format("woff");
   unicode-range: U+D7, U+EA, U+FC, U+2192, U+25BC, U+3000, U+3137, U+3145,
     U+315C, U+7F8E, U+AC13, U+AC71, U+AC90, U+ACB8, U+ACE7, U+AD7F, U+AE50,
     U+AEF4, U+AF34, U+AFBC, U+B048, U+B09A, U+B0AD, U+B0BC, U+B113, U+B125,
@@ -256,8 +241,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.111.woff2") format("woff2"),
-    url("500.111.woff") format("woff");
+  src: url("500.111.woff2") format("woff2"), url("500.111.woff") format("woff");
   unicode-range: U+E7, U+2022, U+203B, U+25C0, U+2605, U+2661, U+3147, U+318D,
     U+672C, U+8A9E, U+ACAA, U+ACBC, U+AD1C, U+AE4A, U+AE5C, U+B044, U+B054,
     U+B0C8-B0C9, U+B2A6, U+B2D0, U+B35C, U+B364, U+B428, U+B454, U+B465, U+B4B7,
@@ -276,8 +260,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.112.woff2") format("woff2"),
-    url("500.112.woff") format("woff");
+  src: url("500.112.woff2") format("woff2"), url("500.112.woff") format("woff");
   unicode-range: U+2665, U+3160, U+4E2D, U+6587, U+65E5, U+AC12, U+AC14, U+AC16,
     U+AC81, U+AD34, U+ADE0, U+AE54, U+AEBC, U+AF2C, U+AFC0, U+AFC8, U+B04C,
     U+B08C, U+B099, U+B0A9, U+B0AC, U+B0AE, U+B0B8, U+B123, U+B179, U+B2E5,
@@ -296,8 +279,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.113.woff2") format("woff2"),
-    url("500.113.woff") format("woff");
+  src: url("500.113.woff2") format("woff2"), url("500.113.woff") format("woff");
   unicode-range: U+5E, U+25B2, U+25B6, U+314E, U+AC24, U+ACE1, U+ACE4, U+AE68,
     U+AF2D, U+B0D0, U+B0E5, U+B150, U+B155, U+B193, U+B2C9, U+B2DD, U+B3C8,
     U+B3FC, U+B410, U+B458, U+B4DD, U+B5A0, U+B5A4, U+B5BB, U+B7B5, U+B838,
@@ -315,8 +297,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.114.woff2") format("woff2"),
-    url("500.114.woff") format("woff");
+  src: url("500.114.woff2") format("woff2"), url("500.114.woff") format("woff");
   unicode-range: U+3C-3D, U+2026, U+24D2, U+314B, U+AC11, U+ACF3, U+AD74, U+AD81,
     U+ADF9, U+AE34, U+AF43, U+AFB8, U+B05D, U+B07C, U+B110, U+B118, U+B17C,
     U+B180, U+B18D, U+B192, U+B2CC, U+B355, U+B378, U+B4A4, U+B4EF, U+B78D,
@@ -334,8 +315,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.115.woff2") format("woff2"),
-    url("500.115.woff") format("woff");
+  src: url("500.115.woff2") format("woff2"), url("500.115.woff") format("woff");
   unicode-range: U+23, U+25, U+5F, U+A9, U+AC08, U+AC78, U+ACA8, U+ACAC, U+ACE8,
     U+AD70, U+ADC0, U+ADDC, U+B137, U+B140, U+B208, U+B290, U+B2F5, U+B3C5,
     U+B3CC, U+B420, U+B429, U+B529, U+B530, U+B77D, U+B79C, U+B7A8, U+B7C9,
@@ -353,8 +333,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.116.woff2") format("woff2"),
-    url("500.116.woff") format("woff");
+  src: url("500.116.woff2") format("woff2"), url("500.116.woff") format("woff");
   unicode-range: U+26, U+2B, U+3E, U+40, U+7E, U+AC01, U+AC19, U+AC1D, U+ACA0,
     U+ACA9, U+ACB0, U+AD8C, U+AE09, U+AE38, U+AE40, U+AED8, U+B09C, U+B0A0,
     U+B108, U+B204, U+B298, U+B2D8, U+B2EB-B2EC, U+B2F4, U+B313, U+B358, U+B450,
@@ -372,8 +351,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.117.woff2") format("woff2"),
-    url("500.117.woff") format("woff");
+  src: url("500.117.woff2") format("woff2"), url("500.117.woff") format("woff");
   unicode-range: U+D, U+48, U+7C, U+AC10, U+AC15, U+AC74, U+AC80, U+AC83, U+ACC4,
     U+AD11, U+AD50, U+AD6D, U+ADFC, U+AE00, U+AE08, U+AE4C, U+B0A8, U+B124,
     U+B144, U+B178, U+B274, U+B2A5, U+B2E8, U+B2F9, U+B354, U+B370, U+B418,
@@ -391,8 +369,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.118.woff2") format("woff2"),
-    url("500.118.woff") format("woff");
+  src: url("500.118.woff2") format("woff2"), url("500.118.woff") format("woff");
   unicode-range: U+39, U+49, U+4D-4E, U+A0, U+AC04, U+AC1C, U+AC70, U+AC8C,
     U+ACBD, U+ACF5, U+ACFC, U+AD00, U+AD6C, U+ADF8, U+B098, U+B0B4, U+B294,
     U+B2C8, U+B300, U+B3C4, U+B3D9, U+B4DC, U+B4E4, U+B77C, U+B7EC, U+B85D,
@@ -410,8 +387,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.119.woff2") format("woff2"),
-    url("500.119.woff") format("woff");
+  src: url("500.119.woff2") format("woff2"), url("500.119.woff") format("woff");
   unicode-range: U+20-22, U+27-2A, U+2C-38, U+3A-3B, U+3F, U+41-47, U+4A-4C,
     U+4F-5D, U+61-7B, U+7D, U+A1, U+AB, U+AE, U+B7, U+BB, U+BF, U+2013-2014,
     U+201C-201D, U+2122, U+AC00, U+ACE0, U+AE30, U+B2E4, U+B85C, U+B9AC, U+C0AC,
@@ -422,8 +398,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.12.woff2") format("woff2"),
-    url("500.12.woff") format("woff");
+  src: url("500.12.woff2") format("woff2"), url("500.12.woff") format("woff");
   unicode-range: U+D04B-D04F, U+D051-D057, U+D059-D06B, U+D06D-D06F, U+D071-D073,
     U+D075-D07B, U+D07E-D0A3, U+D0A6-D0A7, U+D0A9-D0AB, U+D0AD-D0B3, U+D0B6,
     U+D0B8, U+D0BA-D0BF, U+D0C2-D0C3, U+D0C5-D0C7, U+D0C9-D0CF, U+D0D2,
@@ -434,8 +409,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.13.woff2") format("woff2"),
-    url("500.13.woff") format("woff");
+  src: url("500.13.woff2") format("woff2"), url("500.13.woff") format("woff");
   unicode-range: U+CFA2-CFC3, U+CFC5-CFDF, U+CFE2-CFE3, U+CFE5-CFE7, U+CFE9-CFF4,
     U+CFF6-CFFB, U+CFFD-CFFF, U+D001-D003, U+D005-D017, U+D019-D033, U+D036-D037,
     U+D039-D03B, U+D03D-D04A;
@@ -445,8 +419,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.14.woff2") format("woff2"),
-    url("500.14.woff") format("woff");
+  src: url("500.14.woff2") format("woff2"), url("500.14.woff") format("woff");
   unicode-range: U+CEF0-CEF3, U+CEF6, U+CEF9-CEFF, U+CF01-CF03, U+CF05-CF07,
     U+CF09-CF0F, U+CF11-CF12, U+CF14-CF1B, U+CF1D-CF1F, U+CF21-CF2F, U+CF31-CF53,
     U+CF56-CF57, U+CF59-CF5B, U+CF5D-CF63, U+CF66, U+CF68, U+CF6A-CF6F,
@@ -457,8 +430,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.15.woff2") format("woff2"),
-    url("500.15.woff") format("woff");
+  src: url("500.15.woff2") format("woff2"), url("500.15.woff") format("woff");
   unicode-range: U+CE3C-CE57, U+CE5A-CE5B, U+CE5D-CE5F, U+CE61-CE67, U+CE6A,
     U+CE6C, U+CE6E-CE73, U+CE76-CE77, U+CE79-CE7B, U+CE7D-CE83, U+CE85-CE88,
     U+CE8A-CE8F, U+CE91-CE93, U+CE95-CE97, U+CE99-CE9F, U+CEA2, U+CEA4-CEAB,
@@ -469,8 +441,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.16.woff2") format("woff2"),
-    url("500.16.woff") format("woff");
+  src: url("500.16.woff2") format("woff2"), url("500.16.woff") format("woff");
   unicode-range: U+CD92-CD93, U+CD96-CD97, U+CD99-CD9B, U+CD9D-CDA3, U+CDA6-CDA8,
     U+CDAA-CDAF, U+CDB1-CDC3, U+CDC5-CDCB, U+CDCD-CDE7, U+CDE9-CE03, U+CE05-CE1F,
     U+CE22-CE34, U+CE36-CE3B;
@@ -480,8 +451,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.17.woff2") format("woff2"),
-    url("500.17.woff") format("woff");
+  src: url("500.17.woff2") format("woff2"), url("500.17.woff") format("woff");
   unicode-range: U+CCEF-CD07, U+CD0A-CD0B, U+CD0D-CD1A, U+CD1C, U+CD1E-CD2B,
     U+CD2D-CD5B, U+CD5D-CD77, U+CD79-CD91;
 }
@@ -490,8 +460,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.18.woff2") format("woff2"),
-    url("500.18.woff") format("woff");
+  src: url("500.18.woff2") format("woff2"), url("500.18.woff") format("woff");
   unicode-range: U+CC3F-CC43, U+CC46-CC47, U+CC49-CC4B, U+CC4D-CC53, U+CC55-CC58,
     U+CC5A-CC5F, U+CC61-CC97, U+CC9A-CC9B, U+CC9D-CC9F, U+CCA1-CCA7, U+CCAA,
     U+CCAC, U+CCAE-CCB3, U+CCB6-CCB7, U+CCB9-CCBB, U+CCBD-CCCF, U+CCD1-CCE3,
@@ -502,8 +471,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.19.woff2") format("woff2"),
-    url("500.19.woff") format("woff");
+  src: url("500.19.woff2") format("woff2"), url("500.19.woff") format("woff");
   unicode-range: U+CB91-CBD3, U+CBD5-CBE3, U+CBE5-CC0B, U+CC0E-CC0F, U+CC11-CC13,
     U+CC15-CC1B, U+CC1D-CC20, U+CC23-CC27, U+CC2A-CC2B, U+CC2D, U+CC2F,
     U+CC31-CC37, U+CC3A, U+CC3C;
@@ -513,8 +481,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.2.woff2") format("woff2"),
-    url("500.2.woff") format("woff");
+  src: url("500.2.woff2") format("woff2"), url("500.2.woff") format("woff");
   unicode-range: U+D723-D728, U+D72A-D733, U+D735-D748, U+D74A-D74F, U+D752-D753,
     U+D755-D757, U+D75A-D75F, U+D762-D764, U+D766-D768, U+D76A-D76B, U+D76D-D76F,
     U+D771-D787, U+D789-D78B, U+D78D-D78F, U+D791-D797, U+D79A, U+D79C,
@@ -525,8 +492,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.20.woff2") format("woff2"),
-    url("500.20.woff") format("woff");
+  src: url("500.20.woff2") format("woff2"), url("500.20.woff") format("woff");
   unicode-range: U+CAF4-CB47, U+CB4A-CB90;
 }
 
@@ -534,8 +500,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.21.woff2") format("woff2"),
-    url("500.21.woff") format("woff");
+  src: url("500.21.woff2") format("woff2"), url("500.21.woff") format("woff");
   unicode-range: U+CA4A-CA4B, U+CA4E-CA4F, U+CA51-CA53, U+CA55-CA5B, U+CA5D-CA60,
     U+CA62-CA83, U+CA85-CABB, U+CABE-CABF, U+CAC1-CAC3, U+CAC5-CACB, U+CACD-CAD0,
     U+CAD2, U+CAD4-CAD8, U+CADA-CAF3;
@@ -545,8 +510,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.22.woff2") format("woff2"),
-    url("500.22.woff") format("woff");
+  src: url("500.22.woff2") format("woff2"), url("500.22.woff") format("woff");
   unicode-range: U+C996-C997, U+C99A-C99C, U+C99E-C9BF, U+C9C2-C9C3, U+C9C5-C9C7,
     U+C9C9-C9CF, U+C9D2, U+C9D4, U+C9D7-C9D8, U+C9DB, U+C9DE-C9DF, U+C9E1-C9E3,
     U+C9E5-C9E6, U+C9E8-C9EB, U+C9EE-C9F0, U+C9F2-C9F7, U+C9F9-CA0B, U+CA0D-CA28,
@@ -557,8 +521,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.23.woff2") format("woff2"),
-    url("500.23.woff") format("woff");
+  src: url("500.23.woff2") format("woff2"), url("500.23.woff") format("woff");
   unicode-range: U+C8E9-C8F4, U+C8F6-C8FB, U+C8FE-C8FF, U+C901-C903, U+C905-C90B,
     U+C90E-C910, U+C912-C917, U+C919-C92B, U+C92D-C94F, U+C951-C953, U+C955-C96B,
     U+C96D-C973, U+C975-C987, U+C98A-C98B, U+C98D-C98F, U+C991-C995;
@@ -568,8 +531,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.24.woff2") format("woff2"),
-    url("500.24.woff") format("woff");
+  src: url("500.24.woff2") format("woff2"), url("500.24.woff") format("woff");
   unicode-range: U+C841-C84B, U+C84D-C86F, U+C872-C873, U+C875-C877, U+C879-C87F,
     U+C882-C884, U+C887-C88A, U+C88D-C8C3, U+C8C5-C8DF, U+C8E1-C8E8;
 }
@@ -578,8 +540,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.25.woff2") format("woff2"),
-    url("500.25.woff") format("woff");
+  src: url("500.25.woff2") format("woff2"), url("500.25.woff") format("woff");
   unicode-range: U+C779-C77B, U+C77E-C782, U+C786, U+C78B, U+C78D, U+C78F,
     U+C792-C793, U+C795, U+C797, U+C799-C79F, U+C7A2, U+C7A7-C7AB, U+C7AE-C7BB,
     U+C7BD-C7C0, U+C7C2-C7C7, U+C7C9-C7DC, U+C7DE-C7FF, U+C802-C803, U+C805-C807,
@@ -591,8 +552,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.26.woff2") format("woff2"),
-    url("500.26.woff") format("woff");
+  src: url("500.26.woff2") format("woff2"), url("500.26.woff") format("woff");
   unicode-range: U+C6BB-C6BF, U+C6C2, U+C6C4, U+C6C6-C6CB, U+C6CE-C6CF,
     U+C6D1-C6D3, U+C6D5-C6DB, U+C6DD-C6DF, U+C6E1-C6E7, U+C6E9-C6EB, U+C6ED-C6EF,
     U+C6F1-C6F8, U+C6FA-C703, U+C705-C707, U+C709-C70B, U+C70D-C716, U+C718,
@@ -604,8 +564,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.27.woff2") format("woff2"),
-    url("500.27.woff") format("woff");
+  src: url("500.27.woff2") format("woff2"), url("500.27.woff") format("woff");
   unicode-range: U+C5F5-C5FB, U+C5FE, U+C602-C605, U+C607, U+C609-C60F,
     U+C611-C61A, U+C61C-C623, U+C626-C627, U+C629-C62B, U+C62D, U+C62F-C632,
     U+C636, U+C638, U+C63A-C63F, U+C642-C643, U+C645-C647, U+C649-C652,
@@ -618,8 +577,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.28.woff2") format("woff2"),
-    url("500.28.woff") format("woff");
+  src: url("500.28.woff2") format("woff2"), url("500.28.woff") format("woff");
   unicode-range: U+C517-C527, U+C52A-C52B, U+C52D-C52F, U+C531-C538, U+C53A,
     U+C53C, U+C53E-C543, U+C546-C547, U+C54B, U+C54D-C552, U+C556, U+C55A-C55B,
     U+C55D, U+C55F, U+C562-C563, U+C565-C567, U+C569-C56F, U+C572, U+C574,
@@ -633,8 +591,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.29.woff2") format("woff2"),
-    url("500.29.woff") format("woff");
+  src: url("500.29.woff2") format("woff2"), url("500.29.woff") format("woff");
   unicode-range: U+C475-C4EF, U+C4F2-C4F3, U+C4F5-C4F7, U+C4F9-C4FF, U+C502-C50B,
     U+C50D-C516;
 }
@@ -643,8 +600,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.3.woff2") format("woff2"),
-    url("500.3.woff") format("woff");
+  src: url("500.3.woff2") format("woff2"), url("500.3.woff") format("woff");
   unicode-range: U+D679-D68B, U+D68E-D69E, U+D6A0, U+D6A2-D6A7, U+D6A9-D6C3,
     U+D6C6-D6C7, U+D6C9-D6CB, U+D6CD-D6D3, U+D6D5-D6D6, U+D6D8-D6E3, U+D6E5-D6E7,
     U+D6E9-D6FB, U+D6FD-D717, U+D719-D71F, U+D721-D722;
@@ -654,8 +610,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.30.woff2") format("woff2"),
-    url("500.30.woff") format("woff");
+  src: url("500.30.woff2") format("woff2"), url("500.30.woff") format("woff");
   unicode-range: U+C3D0-C3D7, U+C3DA-C3DB, U+C3DD-C3DE, U+C3E1-C3EC, U+C3EE-C3F3,
     U+C3F5-C42B, U+C42D-C463, U+C466-C474;
 }
@@ -664,8 +619,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.31.woff2") format("woff2"),
-    url("500.31.woff") format("woff");
+  src: url("500.31.woff2") format("woff2"), url("500.31.woff") format("woff");
   unicode-range: U+C32B-C367, U+C36A-C36B, U+C36D-C36F, U+C371-C377, U+C37A-C37B,
     U+C37E-C383, U+C385-C387, U+C389-C3CF;
 }
@@ -674,8 +628,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.32.woff2") format("woff2"),
-    url("500.32.woff") format("woff");
+  src: url("500.32.woff2") format("woff2"), url("500.32.woff") format("woff");
   unicode-range: U+C26A-C26B, U+C26D-C26F, U+C271-C273, U+C275-C27B, U+C27E-C287,
     U+C289-C28F, U+C291-C297, U+C299-C29A, U+C29C-C2A3, U+C2A5-C2A7, U+C2A9-C2AB,
     U+C2AD-C2B3, U+C2B6, U+C2B8, U+C2BA-C2BB, U+C2BD-C2DB, U+C2DE-C2DF,
@@ -688,8 +641,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.33.woff2") format("woff2"),
-    url("500.33.woff") format("woff");
+  src: url("500.33.woff2") format("woff2"), url("500.33.woff") format("woff");
   unicode-range: U+C1BC-C1C3, U+C1C5-C1DF, U+C1E1-C1FB, U+C1FD-C203, U+C205-C20C,
     U+C20E, U+C210-C217, U+C21A-C21B, U+C21D-C21E, U+C221-C227, U+C229-C22A,
     U+C22C, U+C22E, U+C230, U+C233-C24F, U+C251-C257, U+C259-C269;
@@ -699,8 +651,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.34.woff2") format("woff2"),
-    url("500.34.woff") format("woff");
+  src: url("500.34.woff2") format("woff2"), url("500.34.woff") format("woff");
   unicode-range: U+C101-C11B, U+C11F, U+C121-C123, U+C125-C12B, U+C12E,
     U+C132-C137, U+C13A-C13B, U+C13D-C13F, U+C141-C147, U+C14A, U+C14C-C153,
     U+C155-C157, U+C159-C15B, U+C15D-C166, U+C169-C16F, U+C171-C177, U+C179-C18B,
@@ -712,8 +663,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.35.woff2") format("woff2"),
-    url("500.35.woff") format("woff");
+  src: url("500.35.woff2") format("woff2"), url("500.35.woff") format("woff");
   unicode-range: U+C049-C057, U+C059-C05B, U+C05D-C05F, U+C061-C067, U+C069-C08F,
     U+C091-C0AB, U+C0AE-C0AF, U+C0B1-C0B3, U+C0B5, U+C0B7-C0BB, U+C0BE,
     U+C0C2-C0C7, U+C0CA-C0CB, U+C0CD-C0CF, U+C0D1-C0D7, U+C0D9-C0DA, U+C0DC,
@@ -724,8 +674,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.36.woff2") format("woff2"),
-    url("500.36.woff") format("woff");
+  src: url("500.36.woff2") format("woff2"), url("500.36.woff") format("woff");
   unicode-range: U+BFA7-BFAF, U+BFB1-BFC4, U+BFC6-BFCB, U+BFCE-BFCF, U+BFD1-BFD3,
     U+BFD5-BFDB, U+BFDD-C048;
 }
@@ -734,8 +683,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.37.woff2") format("woff2"),
-    url("500.37.woff") format("woff");
+  src: url("500.37.woff2") format("woff2"), url("500.37.woff") format("woff");
   unicode-range: U+BF07, U+BF09-BF3F, U+BF41-BF4F, U+BF52-BF54, U+BF56-BFA6;
 }
 
@@ -743,8 +691,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.38.woff2") format("woff2"),
-    url("500.38.woff") format("woff");
+  src: url("500.38.woff2") format("woff2"), url("500.38.woff") format("woff");
   unicode-range: U+BE56, U+BE58, U+BE5C-BE5F, U+BE62-BE63, U+BE65-BE67,
     U+BE69-BE74, U+BE76-BE7B, U+BE7E-BE7F, U+BE81-BE8E, U+BE90, U+BE92-BEA7,
     U+BEA9-BECF, U+BED2-BED3, U+BED5-BED6, U+BED9-BEE3, U+BEE6-BF06;
@@ -754,8 +701,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.39.woff2") format("woff2"),
-    url("500.39.woff") format("woff");
+  src: url("500.39.woff2") format("woff2"), url("500.39.woff") format("woff");
   unicode-range: U+BDB0-BDD3, U+BDD5-BDEF, U+BDF1-BE0B, U+BE0D-BE0F, U+BE11-BE13,
     U+BE15-BE43, U+BE46-BE47, U+BE49-BE4B, U+BE4D-BE53;
 }
@@ -764,8 +710,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.4.woff2") format("woff2"),
-    url("500.4.woff") format("woff");
+  src: url("500.4.woff2") format("woff2"), url("500.4.woff") format("woff");
   unicode-range: U+D5BC-D5C7, U+D5CA-D5CB, U+D5CD-D5CF, U+D5D1-D5D7, U+D5D9-D5DA,
     U+D5DC, U+D5DE-D5E3, U+D5E6-D5E7, U+D5E9-D5EB, U+D5ED-D5F6, U+D5F8,
     U+D5FA-D5FF, U+D602-D603, U+D605-D607, U+D609-D60F, U+D612-D613, U+D616-D61B,
@@ -777,8 +722,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.40.woff2") format("woff2"),
-    url("500.40.woff") format("woff");
+  src: url("500.40.woff2") format("woff2"), url("500.40.woff") format("woff");
   unicode-range: U+BD03, U+BD06, U+BD08, U+BD0A-BD0F, U+BD11-BD22, U+BD25-BD47,
     U+BD49-BD58, U+BD5A-BD7F, U+BD82-BD83, U+BD85-BD87, U+BD8A-BD8F, U+BD91-BD92,
     U+BD94, U+BD96-BD98, U+BD9A-BDAF;
@@ -788,8 +732,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.41.woff2") format("woff2"),
-    url("500.41.woff") format("woff");
+  src: url("500.41.woff2") format("woff2"), url("500.41.woff") format("woff");
   unicode-range: U+BC4E-BC83, U+BC86-BC87, U+BC89-BC8B, U+BC8D-BC93, U+BC96,
     U+BC98, U+BC9B-BC9F, U+BCA2-BCA3, U+BCA5-BCA7, U+BCA9-BCB2, U+BCB4-BCBB,
     U+BCBE-BCBF, U+BCC1-BCC3, U+BCC5-BCCC, U+BCCE-BCD0, U+BCD2-BCD4, U+BCD6-BCF3,
@@ -800,8 +743,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.42.woff2") format("woff2"),
-    url("500.42.woff") format("woff");
+  src: url("500.42.woff2") format("woff2"), url("500.42.woff") format("woff");
   unicode-range: U+BB90-BBA3, U+BBA5-BBAB, U+BBAD-BBBF, U+BBC1-BBF7, U+BBFA-BBFB,
     U+BBFD-BBFE, U+BC01-BC07, U+BC09-BC0A, U+BC0E, U+BC10, U+BC12-BC13, U+BC17,
     U+BC19-BC1A, U+BC1E, U+BC20-BC23, U+BC26, U+BC28, U+BC2A-BC2C, U+BC2E-BC2F,
@@ -813,8 +755,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.43.woff2") format("woff2"),
-    url("500.43.woff") format("woff");
+  src: url("500.43.woff2") format("woff2"), url("500.43.woff") format("woff");
   unicode-range: U+BAE6-BAFB, U+BAFD-BB17, U+BB19-BB33, U+BB37, U+BB39-BB3A,
     U+BB3D-BB43, U+BB45-BB46, U+BB48, U+BB4A-BB4F, U+BB51-BB53, U+BB55-BB57,
     U+BB59-BB62, U+BB64-BB8F;
@@ -824,8 +765,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.44.woff2") format("woff2"),
-    url("500.44.woff") format("woff");
+  src: url("500.44.woff2") format("woff2"), url("500.44.woff") format("woff");
   unicode-range: U+BA30-BA37, U+BA3A-BA3B, U+BA3D-BA3F, U+BA41-BA47, U+BA49-BA4A,
     U+BA4C, U+BA4E-BA53, U+BA56-BA57, U+BA59-BA5B, U+BA5D-BA63, U+BA65-BA66,
     U+BA68-BA6F, U+BA71-BA73, U+BA75-BA77, U+BA79-BA84, U+BA86, U+BA88-BAA7,
@@ -836,8 +776,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.45.woff2") format("woff2"),
-    url("500.45.woff") format("woff");
+  src: url("500.45.woff2") format("woff2"), url("500.45.woff") format("woff");
   unicode-range: U+B96E-B973, U+B976-B977, U+B979-B97B, U+B97D-B983, U+B986,
     U+B988, U+B98A-B98D, U+B98F-B9AB, U+B9AE-B9AF, U+B9B1-B9B3, U+B9B5-B9BB,
     U+B9BE, U+B9C0, U+B9C2-B9C7, U+B9CA-B9CB, U+B9CD, U+B9D2-B9D7, U+B9DA,
@@ -849,8 +788,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.46.woff2") format("woff2"),
-    url("500.46.woff") format("woff");
+  src: url("500.46.woff2") format("woff2"), url("500.46.woff") format("woff");
   unicode-range: U+B8BF-B8CB, U+B8CD-B8E0, U+B8E2-B8E7, U+B8EA-B8EB, U+B8ED-B8EF,
     U+B8F1-B8F7, U+B8FA, U+B8FC, U+B8FE-B903, U+B905-B917, U+B919-B91F,
     U+B921-B93B, U+B93D-B957, U+B95A-B95B, U+B95D-B95F, U+B961-B967, U+B969-B96C;
@@ -860,8 +798,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.47.woff2") format("woff2"),
-    url("500.47.woff") format("woff");
+  src: url("500.47.woff2") format("woff2"), url("500.47.woff") format("woff");
   unicode-range: U+B80D-B80F, U+B811-B817, U+B81A, U+B81C-B823, U+B826-B827,
     U+B829-B82B, U+B82D-B833, U+B836, U+B83A-B83F, U+B841-B85B, U+B85E-B85F,
     U+B861-B863, U+B865-B86B, U+B86E, U+B870, U+B872-B8AF, U+B8B1-B8BE;
@@ -871,8 +808,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.48.woff2") format("woff2"),
-    url("500.48.woff") format("woff");
+  src: url("500.48.woff2") format("woff2"), url("500.48.woff") format("woff");
   unicode-range: U+B74D-B75F, U+B761-B763, U+B765-B774, U+B776-B77B, U+B77E-B77F,
     U+B781-B783, U+B785-B78B, U+B78E, U+B792-B796, U+B79A-B79B, U+B79D-B7A7,
     U+B7AA, U+B7AE-B7B3, U+B7B6-B7C8, U+B7CA-B7EB, U+B7EE-B7EF, U+B7F1-B7F3,
@@ -883,8 +819,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.49.woff2") format("woff2"),
-    url("500.49.woff") format("woff");
+  src: url("500.49.woff2") format("woff2"), url("500.49.woff") format("woff");
   unicode-range: U+B6A7-B6AA, U+B6AC-B6B0, U+B6B2-B6EF, U+B6F1-B727, U+B72A-B72B,
     U+B72D-B72E, U+B731-B737, U+B739-B73A, U+B73C-B743, U+B745-B74C;
 }
@@ -893,8 +828,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.5.woff2") format("woff2"),
-    url("500.5.woff") format("woff");
+  src: url("500.5.woff2") format("woff2"), url("500.5.woff") format("woff");
   unicode-range: U+D507, U+D509-D50B, U+D50D-D513, U+D515-D53B, U+D53E-D53F,
     U+D541-D543, U+D545-D54C, U+D54E, U+D550, U+D552-D557, U+D55A-D55B,
     U+D55D-D55F, U+D561-D564, U+D566-D567, U+D56A, U+D56C, U+D56E-D573,
@@ -905,8 +839,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.50.woff2") format("woff2"),
-    url("500.50.woff") format("woff");
+  src: url("500.50.woff2") format("woff2"), url("500.50.woff") format("woff");
   unicode-range: U+B605-B60F, U+B612-B617, U+B619-B624, U+B626-B69B, U+B69E-B6A3,
     U+B6A5-B6A6;
 }
@@ -915,8 +848,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.51.woff2") format("woff2"),
-    url("500.51.woff") format("woff");
+  src: url("500.51.woff2") format("woff2"), url("500.51.woff") format("woff");
   unicode-range: U+B55F, U+B562-B583, U+B585-B59F, U+B5A2-B5A3, U+B5A5-B5A7,
     U+B5A9-B5B2, U+B5B5-B5BA, U+B5BD-B604;
 }
@@ -925,8 +857,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.52.woff2") format("woff2"),
-    url("500.52.woff") format("woff");
+  src: url("500.52.woff2") format("woff2"), url("500.52.woff") format("woff");
   unicode-range: U+B4A5-B4B6, U+B4B8-B4BF, U+B4C1-B4C7, U+B4C9-B4DB, U+B4DE-B4DF,
     U+B4E1-B4E2, U+B4E5-B4EB, U+B4EE, U+B4F0, U+B4F2-B513, U+B516-B517,
     U+B519-B51A, U+B51D-B523, U+B526, U+B528, U+B52B-B52F, U+B532-B533,
@@ -938,8 +869,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.53.woff2") format("woff2"),
-    url("500.53.woff") format("woff");
+  src: url("500.53.woff2") format("woff2"), url("500.53.woff") format("woff");
   unicode-range: U+B3F8-B3FB, U+B3FD-B40F, U+B411-B417, U+B419-B41B, U+B41D-B41F,
     U+B421-B427, U+B42A-B42B, U+B42D-B44F, U+B452-B453, U+B455-B457, U+B459-B45F,
     U+B462-B464, U+B466-B46B, U+B46D-B47F, U+B481-B4A3;
@@ -949,8 +879,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.54.woff2") format("woff2"),
-    url("500.54.woff") format("woff");
+  src: url("500.54.woff2") format("woff2"), url("500.54.woff") format("woff");
   unicode-range: U+B342-B353, U+B356-B357, U+B359-B35B, U+B35D-B35E, U+B360-B363,
     U+B366, U+B368, U+B36A-B36D, U+B36F, U+B372-B373, U+B375-B377, U+B379-B37F,
     U+B381-B382, U+B384, U+B386-B38B, U+B38D-B3C3, U+B3C6-B3C7, U+B3C9-B3CA,
@@ -961,8 +890,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.55.woff2") format("woff2"),
-    url("500.55.woff") format("woff");
+  src: url("500.55.woff2") format("woff2"), url("500.55.woff") format("woff");
   unicode-range: U+B27C-B283, U+B285-B28F, U+B292-B293, U+B295-B297, U+B29A-B29F,
     U+B2A1-B2A4, U+B2A7-B2A9, U+B2AB, U+B2AD-B2C7, U+B2CA-B2CB, U+B2CD-B2CF,
     U+B2D1-B2D7, U+B2DA, U+B2DC, U+B2DE-B2E3, U+B2E7, U+B2E9-B2EA, U+B2EF-B2F3,
@@ -974,8 +902,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.56.woff2") format("woff2"),
-    url("500.56.woff") format("woff");
+  src: url("500.56.woff2") format("woff2"), url("500.56.woff") format("woff");
   unicode-range: U+B1D6-B1E7, U+B1E9-B1FC, U+B1FE-B203, U+B206-B207, U+B209-B20B,
     U+B20D-B213, U+B216-B21F, U+B221-B257, U+B259-B273, U+B275-B27B;
 }
@@ -984,8 +911,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.57.woff2") format("woff2"),
-    url("500.57.woff") format("woff");
+  src: url("500.57.woff2") format("woff2"), url("500.57.woff") format("woff");
   unicode-range: U+B120-B122, U+B126-B127, U+B129-B12B, U+B12D-B133, U+B136,
     U+B138, U+B13A-B13F, U+B142-B143, U+B145-B14F, U+B151-B153, U+B156-B157,
     U+B159-B177, U+B17A-B17B, U+B17D-B17F, U+B181-B187, U+B189-B18C, U+B18E-B191,
@@ -996,8 +922,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.58.woff2") format("woff2"),
-    url("500.58.woff") format("woff");
+  src: url("500.58.woff2") format("woff2"), url("500.58.woff") format("woff");
   unicode-range: U+B05F-B07B, U+B07E-B07F, U+B081-B083, U+B085-B08B, U+B08D-B097,
     U+B09B, U+B09D-B09F, U+B0A2-B0A7, U+B0AA, U+B0B0, U+B0B2, U+B0B6-B0B7,
     U+B0B9-B0BB, U+B0BD-B0C3, U+B0C6-B0C7, U+B0CA-B0CF, U+B0D1-B0DF, U+B0E1-B0E4,
@@ -1009,8 +934,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.59.woff2") format("woff2"),
-    url("500.59.woff") format("woff");
+  src: url("500.59.woff2") format("woff2"), url("500.59.woff") format("woff");
   unicode-range: U+AFAC-AFB7, U+AFBA-AFBB, U+AFBD-AFBF, U+AFC1-AFC6, U+AFCA-AFCC,
     U+AFCE-AFD3, U+AFD5-AFE7, U+AFE9-AFEF, U+AFF1-B00B, U+B00D-B00F, U+B011-B013,
     U+B015-B01B, U+B01D-B027, U+B029-B043, U+B045-B047, U+B049, U+B04B,
@@ -1021,8 +945,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.6.woff2") format("woff2"),
-    url("500.6.woff") format("woff");
+  src: url("500.6.woff2") format("woff2"), url("500.6.woff") format("woff");
   unicode-range: U+D464-D477, U+D47A-D47B, U+D47D-D47F, U+D481-D487, U+D489-D48A,
     U+D48C, U+D48E-D4E7, U+D4E9-D503, U+D505-D506;
 }
@@ -1031,8 +954,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.60.woff2") format("woff2"),
-    url("500.60.woff") format("woff");
+  src: url("500.60.woff2") format("woff2"), url("500.60.woff") format("woff");
   unicode-range: U+AF03-AF07, U+AF09-AF2B, U+AF2E-AF33, U+AF35-AF3B, U+AF3E-AF40,
     U+AF44-AF47, U+AF4A-AF5C, U+AF5E-AF63, U+AF65-AF7F, U+AF81-AFAB;
 }
@@ -1041,8 +963,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.61.woff2") format("woff2"),
-    url("500.61.woff") format("woff");
+  src: url("500.61.woff2") format("woff2"), url("500.61.woff") format("woff");
   unicode-range: U+AE56-AE5B, U+AE5E-AE60, U+AE62-AE64, U+AE66-AE67, U+AE69-AE6B,
     U+AE6D-AE83, U+AE85-AEBB, U+AEBF, U+AEC1-AEC3, U+AEC5-AECB, U+AECE, U+AED0,
     U+AED2-AED7, U+AED9-AEF3, U+AEF5-AF02;
@@ -1052,8 +973,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.62.woff2") format("woff2"),
-    url("500.62.woff") format("woff");
+  src: url("500.62.woff2") format("woff2"), url("500.62.woff") format("woff");
   unicode-range: U+AD9C-ADA3, U+ADA5-ADBF, U+ADC1-ADC3, U+ADC5-ADC7, U+ADC9-ADD2,
     U+ADD4-ADDB, U+ADDD-ADDF, U+ADE1-ADE3, U+ADE5-ADF7, U+ADFA-ADFB, U+ADFD-ADFF,
     U+AE02-AE07, U+AE0A, U+AE0C, U+AE0E-AE13, U+AE15-AE2F, U+AE31-AE33,
@@ -1065,8 +985,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.63.woff2") format("woff2"),
-    url("500.63.woff") format("woff");
+  src: url("500.63.woff2") format("woff2"), url("500.63.woff") format("woff");
   unicode-range: U+ACE2-ACE3, U+ACE5-ACE6, U+ACE9-ACEF, U+ACF2, U+ACF4,
     U+ACF7-ACFB, U+ACFE-ACFF, U+AD01-AD03, U+AD05-AD0B, U+AD0D-AD10, U+AD12-AD1B,
     U+AD1D-AD33, U+AD35-AD48, U+AD4A-AD4F, U+AD51-AD6B, U+AD6E-AD6F, U+AD71-AD72,
@@ -1078,8 +997,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.64.woff2") format("woff2"),
-    url("500.64.woff") format("woff");
+  src: url("500.64.woff2") format("woff2"), url("500.64.woff") format("woff");
   unicode-range: U+AC25-AC2C, U+AC2E, U+AC30, U+AC32-AC37, U+AC39-AC3F,
     U+AC41-AC4C, U+AC4E-AC6F, U+AC72-AC73, U+AC75-AC76, U+AC79-AC7F, U+AC82,
     U+AC84-AC88, U+AC8A-AC8B, U+AC8D-AC8F, U+AC91-AC93, U+AC95-AC9B, U+AC9D-AC9E,
@@ -1091,8 +1009,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.65.woff2") format("woff2"),
-    url("500.65.woff") format("woff");
+  src: url("500.65.woff2") format("woff2"), url("500.65.woff") format("woff");
   unicode-range: U+99DF, U+99ED, U+99F1, U+99FF, U+9A01, U+9A08, U+9A0E-9A0F,
     U+9A19, U+9A2B, U+9A30, U+9A36-9A37, U+9A40, U+9A43, U+9A45, U+9A4D, U+9A55,
     U+9A57, U+9A5A-9A5B, U+9A5F, U+9A62, U+9A65, U+9A69-9A6A, U+9AA8, U+9AB8,
@@ -1114,8 +1031,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.66.woff2") format("woff2"),
-    url("500.66.woff") format("woff");
+  src: url("500.66.woff2") format("woff2"), url("500.66.woff") format("woff");
   unicode-range: U+96A7-96A8, U+96AA, U+96B1, U+96B7, U+96BB, U+96C0-96C1,
     U+96C4-96C5, U+96C7, U+96C9, U+96CB-96CE, U+96D5-96D6, U+96D9, U+96DB-96DC,
     U+96E2-96E3, U+96E8-96EA, U+96EF-96F0, U+96F2, U+96F6-96F7, U+96F9, U+96FB,
@@ -1137,8 +1053,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.67.woff2") format("woff2"),
-    url("500.67.woff") format("woff");
+  src: url("500.67.woff2") format("woff2"), url("500.67.woff") format("woff");
   unicode-range: U+920D, U+9210-9212, U+9217, U+921E, U+9234, U+923A,
     U+923F-9240, U+9245, U+9249, U+9257, U+925B, U+925E, U+9262, U+9264-9266,
     U+9283, U+9285, U+9291, U+9293, U+9296, U+9298, U+929C, U+92B3, U+92B6-92B7,
@@ -1160,8 +1075,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.68.woff2") format("woff2"),
-    url("500.68.woff") format("woff");
+  src: url("500.68.woff2") format("woff2"), url("500.68.woff") format("woff");
   unicode-range: U+8FA8, U+8FAD, U+8FAF-8FB2, U+8FC2, U+8FC5, U+8FCE, U+8FD4,
     U+8FE6, U+8FEA-8FEB, U+8FED, U+8FF0, U+8FF2, U+8FF7, U+8FF9, U+8FFD,
     U+9000-9003, U+9005-9006, U+9008, U+900B, U+900D, U+900F-9011, U+9014-9015,
@@ -1182,8 +1096,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.69.woff2") format("woff2"),
-    url("500.69.woff") format("woff");
+  src: url("500.69.woff2") format("woff2"), url("500.69.woff") format("woff");
   unicode-range: U+8C6A-8C6B, U+8C79-8C7A, U+8C82, U+8C8A, U+8C8C, U+8C9D-8C9E,
     U+8CA0-8CA2, U+8CA7-8CAC, U+8CAF-8CB0, U+8CB3-8CB4, U+8CB6-8CB8, U+8CBB-8CBD,
     U+8CBF-8CC4, U+8CC7-8CC8, U+8CCA, U+8CD1, U+8CD3, U+8CDA, U+8CDC, U+8CDE,
@@ -1204,8 +1117,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.7.woff2") format("woff2"),
-    url("500.7.woff") format("woff");
+  src: url("500.7.woff2") format("woff2"), url("500.7.woff") format("woff");
   unicode-range: U+D3BF-D3C7, U+D3CA-D3CF, U+D3D1-D3EB, U+D3EE-D3EF, U+D3F1-D3F3,
     U+D3F5-D3FB, U+D3FD-D400, U+D402-D45B, U+D45D-D463;
 }
@@ -1214,8 +1126,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.70.woff2") format("woff2"),
-    url("500.70.woff") format("woff");
+  src: url("500.70.woff2") format("woff2"), url("500.70.woff") format("woff");
   unicode-range: U+8941, U+8944, U+895F, U+8964, U+896A, U+8972, U+8981, U+8983,
     U+8986-8987, U+898F, U+8993, U+8996, U+89A1, U+89A9-89AA, U+89B2, U+89BA,
     U+89BD, U+89C0, U+89D2, U+89E3, U+89F4, U+89F8, U+8A02-8A03, U+8A08, U+8A0A,
@@ -1238,8 +1149,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.71.woff2") format("woff2"),
-    url("500.71.woff") format("woff");
+  src: url("500.71.woff2") format("woff2"), url("500.71.woff") format("woff");
   unicode-range: U+858F, U+8591, U+8594, U+859B, U+85A6, U+85A8-85AA,
     U+85AF-85B0, U+85BA, U+85C1, U+85C9, U+85CD-85CF, U+85D5, U+85DC-85DD,
     U+85E4-85E5, U+85E9-85EA, U+85F7, U+85FA-85FB, U+85FF, U+8602, U+8606-8607,
@@ -1262,8 +1172,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.72.woff2") format("woff2"),
-    url("500.72.woff") format("woff");
+  src: url("500.72.woff2") format("woff2"), url("500.72.woff") format("woff");
   unicode-range: U+82A6, U+82A9, U+82AC-82AF, U+82B3, U+82B7-82B9, U+82BB-82BD,
     U+82BF, U+82D1-82D2, U+82D4-82D5, U+82D7, U+82DB, U+82DE-82DF, U+82E1,
     U+82E5-82E7, U+82FD-82FE, U+8301-8305, U+8309, U+8317, U+8328, U+832B,
@@ -1285,8 +1194,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.73.woff2") format("woff2"),
-    url("500.73.woff") format("woff");
+  src: url("500.73.woff2") format("woff2"), url("500.73.woff") format("woff");
   unicode-range: U+8033, U+8036, U+803D, U+803F, U+8043, U+8046, U+804A, U+8056,
     U+8058, U+805A, U+805E, U+806F-8070, U+8072-8073, U+8077, U+807D-807F,
     U+8084-8087, U+8089, U+808B-808C, U+8096, U+809B, U+809D, U+80A1-80A2,
@@ -1308,8 +1216,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.74.woff2") format("woff2"),
-    url("500.74.woff") format("woff");
+  src: url("500.74.woff2") format("woff2"), url("500.74.woff") format("woff");
   unicode-range: U+7D2F-7D30, U+7D33, U+7D35, U+7D39-7D3A, U+7D42-7D46, U+7D50,
     U+7D5E, U+7D61-7D62, U+7D66, U+7D68, U+7D6A, U+7D6E, U+7D71-7D73, U+7D76,
     U+7D79, U+7D7F, U+7D8E-7D8F, U+7D93, U+7D9C, U+7DA0, U+7DA2, U+7DAC-7DAD,
@@ -1332,8 +1239,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.75.woff2") format("woff2"),
-    url("500.75.woff") format("woff");
+  src: url("500.75.woff2") format("woff2"), url("500.75.woff") format("woff");
   unicode-range: U+7A49, U+7A4D-7A4E, U+7A57, U+7A61-7A62, U+7A69, U+7A6B,
     U+7A70, U+7A74, U+7A76, U+7A79, U+7A7D, U+7A7F, U+7A81, U+7A84, U+7A88,
     U+7A92-7A93, U+7A95, U+7A98, U+7A9F, U+7AA9-7AAA, U+7AAE-7AAF, U+7ABA,
@@ -1355,8 +1261,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.76.woff2") format("woff2"),
-    url("500.76.woff") format("woff");
+  src: url("500.76.woff2") format("woff2"), url("500.76.woff") format("woff");
   unicode-range: U+7704, U+7708-7709, U+770B, U+771E, U+7720, U+7729,
     U+7737-7738, U+773A, U+773C, U+7740, U+774D, U+775B, U+7761, U+7763, U+7766,
     U+776B, U+7779, U+777E-777F, U+778B, U+7791, U+779E, U+77A5, U+77AC-77AD,
@@ -1378,8 +1283,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.77.woff2") format("woff2"),
-    url("500.77.woff") format("woff");
+  src: url("500.77.woff2") format("woff2"), url("500.77.woff") format("woff");
   unicode-range: U+7482-7483, U+7487, U+7489, U+748B, U+7498, U+749C,
     U+749E-749F, U+74A1, U+74A3, U+74A5, U+74A7-74A8, U+74AA, U+74B0, U+74B2,
     U+74B5, U+74B9, U+74BD, U+74BF, U+74C6, U+74CA, U+74CF, U+74D4, U+74D8,
@@ -1402,8 +1306,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.78.woff2") format("woff2"),
-    url("500.78.woff") format("woff");
+  src: url("500.78.woff2") format("woff2"), url("500.78.woff") format("woff");
   unicode-range: U+7230, U+7232, U+7235, U+723A-723B, U+723D-723E, U+7240,
     U+7246-7248, U+724C, U+7252, U+7258-7259, U+725B, U+725D, U+725F,
     U+7261-7262, U+7267, U+7272, U+727D, U+7280-7281, U+72A2, U+72A7, U+72AC,
@@ -1425,8 +1328,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.79.woff2") format("woff2"),
-    url("500.79.woff") format("woff");
+  src: url("500.79.woff2") format("woff2"), url("500.79.woff") format("woff");
   unicode-range: U+6F8D-6F8E, U+6F90, U+6F94, U+6F97, U+6FA3-6FA4, U+6FA7,
     U+6FAE-6FAF, U+6FB1, U+6FB3, U+6FB9, U+6FBE, U+6FC0-6FC3, U+6FCA, U+6FD5,
     U+6FDA, U+6FDF-6FE1, U+6FE4, U+6FE9, U+6FEB-6FEC, U+6FEF, U+6FF1, U+6FFE,
@@ -1448,8 +1350,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.8.woff2") format("woff2"),
-    url("500.8.woff") format("woff");
+  src: url("500.8.woff2") format("woff2"), url("500.8.woff") format("woff");
   unicode-range: U+D2FF, U+D302-D304, U+D306-D30B, U+D30F, U+D311-D313,
     U+D315-D31B, U+D31E, U+D322-D324, U+D326-D327, U+D32A-D32B, U+D32D-D32F,
     U+D331-D337, U+D339-D33C, U+D33E-D37B, U+D37E-D37F, U+D381-D383, U+D385-D38B,
@@ -1461,8 +1362,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.80.woff2") format("woff2"),
-    url("500.80.woff") format("woff");
+  src: url("500.80.woff2") format("woff2"), url("500.80.woff") format("woff");
   unicode-range: U+6D5A, U+6D5C, U+6D63, U+6D66, U+6D69-6D6A, U+6D6C, U+6D6E,
     U+6D74, U+6D78-6D79, U+6D7F, U+6D85, U+6D87-6D89, U+6D8C-6D8E, U+6D91,
     U+6D93, U+6D95, U+6DAF, U+6DB2, U+6DB5, U+6DC0, U+6DC3-6DC7, U+6DCB, U+6DCF,
@@ -1484,8 +1384,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.81.woff2") format("woff2"),
-    url("500.81.woff") format("woff");
+  src: url("500.81.woff2") format("woff2"), url("500.81.woff") format("woff");
   unicode-range: U+6ADA-6ADB, U+6AF6, U+6AFB, U+6B04, U+6B0A, U+6B0C, U+6B12,
     U+6B16, U+6B20-6B21, U+6B23, U+6B32, U+6B3A, U+6B3D-6B3E, U+6B46-6B47,
     U+6B4E, U+6B50, U+6B5F, U+6B61-6B62, U+6B64-6B66, U+6B6A, U+6B72,
@@ -1507,8 +1406,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.82.woff2") format("woff2"),
-    url("500.82.woff") format("woff");
+  src: url("500.82.woff2") format("woff2"), url("500.82.woff") format("woff");
   unicode-range: U+67F0-67F1, U+67F3-67F6, U+67FB, U+67FE, U+6812-6813,
     U+6816-6817, U+6821-6822, U+682F, U+6838-6839, U+683D, U+6840-6843, U+6848,
     U+684E, U+6850-6851, U+6853-6854, U+686D, U+6876, U+687F, U+6881, U+6885,
@@ -1530,8 +1428,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.83.woff2") format("woff2"),
-    url("500.83.woff") format("woff");
+  src: url("500.83.woff2") format("woff2"), url("500.83.woff") format("woff");
   unicode-range: U+6607, U+6609-660A, U+660C, U+660F-6611, U+6613-6615, U+661E,
     U+6620, U+6627-6628, U+662D, U+6630-6631, U+6634, U+6636, U+663A-663B,
     U+6641, U+6643-6644, U+6649, U+664B, U+664F, U+6659, U+665B, U+665D-665F,
@@ -1552,8 +1449,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.84.woff2") format("woff2"),
-    url("500.84.woff") format("woff");
+  src: url("500.84.woff2") format("woff2"), url("500.84.woff") format("woff");
   unicode-range: U+6392, U+6396, U+6398, U+639B, U+63A0-63A2, U+63A5,
     U+63A7-63AA, U+63C0, U+63C4, U+63C6, U+63CF, U+63D6, U+63DA-63DB, U+63E1,
     U+63ED-63EE, U+63F4, U+63F6-63F7, U+640D, U+640F, U+6414, U+6416-6417,
@@ -1575,8 +1471,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.85.woff2") format("woff2"),
-    url("500.85.woff") format("woff");
+  src: url("500.85.woff2") format("woff2"), url("500.85.woff") format("woff");
   unicode-range: U+614C, U+6153, U+6155, U+6158-6159, U+615D, U+615F,
     U+6162-6164, U+6167-6168, U+616B, U+616E, U+6170, U+6176-6177, U+617D-617E,
     U+6181-6182, U+618A, U+618E, U+6190-6191, U+6194, U+6198-619A, U+61A4,
@@ -1598,8 +1493,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.86.woff2") format("woff2"),
-    url("500.86.woff") format("woff");
+  src: url("500.86.woff2") format("woff2"), url("500.86.woff") format("woff");
   unicode-range: U+5F11, U+5F13-5F15, U+5F17-5F18, U+5F1B, U+5F1F, U+5F26-5F27,
     U+5F29, U+5F31, U+5F35, U+5F3A, U+5F3C, U+5F48, U+5F4A, U+5F4C, U+5F4E,
     U+5F56-5F57, U+5F59, U+5F5B, U+5F62, U+5F66-5F67, U+5F69-5F6D, U+5F70-5F71,
@@ -1620,8 +1514,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.87.woff2") format("woff2"),
-    url("500.87.woff") format("woff");
+  src: url("500.87.woff2") format("woff2"), url("500.87.woff") format("woff");
   unicode-range: U+5C40, U+5C45-5C46, U+5C48, U+5C4B, U+5C4D-5C4E, U+5C51,
     U+5C5B, U+5C60, U+5C62, U+5C64-5C65, U+5C6C, U+5C6F, U+5C79, U+5C90-5C91,
     U+5CA1, U+5CA9, U+5CAB-5CAC, U+5CB1, U+5CB3, U+5CB5, U+5CB7-5CB8, U+5CBA,
@@ -1643,8 +1536,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.88.woff2") format("woff2"),
-    url("500.88.woff") format("woff");
+  src: url("500.88.woff2") format("woff2"), url("500.88.woff") format("woff");
   unicode-range: U+59BE, U+59C3, U+59C6, U+59C9, U+59CB, U+59D0-59D1,
     U+59D3-59D4, U+59D9-59DA, U+59DC-59DD, U+59E6, U+59E8, U+59EA, U+59EC,
     U+59EE, U+59F8, U+59FB, U+59FF, U+5A01, U+5A03, U+5A11, U+5A18, U+5A1B-5A1C,
@@ -1665,8 +1557,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.89.woff2") format("woff2"),
-    url("500.89.woff") format("woff");
+  src: url("500.89.woff2") format("woff2"), url("500.89.woff") format("woff");
   unicode-range: U+5703-5704, U+5708, U+570D, U+5712-5713, U+5716, U+5718,
     U+572D, U+573B, U+5740, U+5742, U+5747, U+574A, U+574D-574E, U+5750-5751,
     U+5761, U+5764, U+5766, U+576A, U+576E, U+5770, U+5775, U+577C, U+5782,
@@ -1689,8 +1580,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.9.woff2") format("woff2"),
-    url("500.9.woff") format("woff");
+  src: url("500.9.woff2") format("woff2"), url("500.9.woff") format("woff");
   unicode-range: U+D257-D27F, U+D281-D29B, U+D29D-D29F, U+D2A1-D2AB, U+D2AD-D2B7,
     U+D2BA-D2BB, U+D2BD-D2BF, U+D2C1-D2C7, U+D2C9-D2EF, U+D2F2-D2F3, U+D2F5-D2F7,
     U+D2F9-D2FE;
@@ -1700,8 +1590,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.90.woff2") format("woff2"),
-    url("500.90.woff") format("woff");
+  src: url("500.90.woff2") format("woff2"), url("500.90.woff") format("woff");
   unicode-range: U+539A, U+53A0, U+53A5-53A6, U+53AD, U+53BB, U+53C3,
     U+53C8-53CB, U+53CD, U+53D4, U+53D6-53D7, U+53DB, U+53E1-53E3, U+53E5,
     U+53E9-53ED, U+53F1, U+53F3, U+53F8, U+5403-5404, U+540A, U+540E-5411,
@@ -1723,8 +1612,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.91.woff2") format("woff2"),
-    url("500.91.woff") format("woff");
+  src: url("500.91.woff2") format("woff2"), url("500.91.woff") format("woff");
   unicode-range: U+516E, U+5175-5178, U+517C, U+5180, U+5186, U+518A, U+518D,
     U+5192, U+5195, U+5197, U+51A0, U+51A5, U+51AA, U+51AC, U+51B6-51B7, U+51BD,
     U+51C4, U+51C6, U+51C9, U+51CB-51CD, U+51DC-51DE, U+51E1, U+51F0-51F1,
@@ -1745,8 +1633,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.92.woff2") format("woff2"),
-    url("500.92.woff") format("woff");
+  src: url("500.92.woff2") format("woff2"), url("500.92.woff") format("woff");
   unicode-range: U+4F43, U+4F46-4F48, U+4F4D-4F51, U+4F55, U+4F59-4F5A, U+4F69,
     U+4F6F-4F70, U+4F73, U+4F76, U+4F7A, U+4F7E-4F7F, U+4F81, U+4F83-4F84,
     U+4F86, U+4F88, U+4F8A-4F8B, U+4F8D, U+4F8F, U+4F91, U+4F96, U+4F98, U+4F9B,
@@ -1767,8 +1654,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.93.woff2") format("woff2"),
-    url("500.93.woff") format("woff");
+  src: url("500.93.woff2") format("woff2"), url("500.93.woff") format("woff");
   unicode-range: U+338C-339C, U+339F-33A0, U+33A2-33CB, U+33CF-33D0, U+33D3,
     U+33D6, U+33D8, U+33DB-33DD, U+4E01, U+4E03, U+4E07-4E08, U+4E11,
     U+4E14-4E15, U+4E18-4E19, U+4E1E, U+4E32, U+4E38-4E39, U+4E42-4E43, U+4E45,
@@ -1785,8 +1671,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.94.woff2") format("woff2"),
-    url("500.94.woff") format("woff");
+  src: url("500.94.woff2") format("woff2"), url("500.94.woff") format("woff");
   unicode-range: U+3136, U+3138, U+313A-3140, U+3143-3144, U+3150, U+3152,
     U+3154-3156, U+3158-315B, U+315D-315F, U+3162, U+3164-318C, U+318E,
     U+3200-321B, U+3231, U+3239, U+3251-325A, U+3260-327B, U+327E-327F,
@@ -1797,8 +1682,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.95.woff2") format("woff2"),
-    url("500.95.woff") format("woff");
+  src: url("500.95.woff2") format("woff2"), url("500.95.woff") format("woff");
   unicode-range: U+2F7D, U+2F7F-2F8B, U+2F8E-2F90, U+2F92-2F97, U+2F99-2FA0,
     U+2FA2-2FA3, U+2FA5-2FA9, U+2FAC-2FB1, U+2FB3-2FBC, U+2FC1-2FCA, U+2FCD-2FD4,
     U+3003, U+3012-3019, U+301C, U+301E-3020, U+3036, U+3041, U+3043, U+3045,
@@ -1813,8 +1697,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.96.woff2") format("woff2"),
-    url("500.96.woff") format("woff");
+  src: url("500.96.woff2") format("woff2"), url("500.96.woff") format("woff");
   unicode-range: U+2541-254B, U+25A4-25A9, U+25B1, U+25B5, U+25B9, U+25BF,
     U+25C1, U+25C3, U+25C9-25CA, U+25CC, U+25CE, U+25D0-25D1, U+25E6, U+25EF,
     U+260F, U+261D, U+261F, U+262F, U+2660, U+2664, U+2667-2669, U+266D, U+266F,
@@ -1830,8 +1713,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.97.woff2") format("woff2"),
-    url("500.97.woff") format("woff");
+  src: url("500.97.woff2") format("woff2"), url("500.97.woff") format("woff");
   unicode-range: U+2479-2487, U+249C-24D1, U+24D3-24D7, U+24D9-24E9, U+24EB-24F4,
     U+2500-2501, U+2503, U+250C-2513, U+2515-2516, U+2518-2540;
 }
@@ -1840,8 +1722,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.98.woff2") format("woff2"),
-    url("500.98.woff") format("woff");
+  src: url("500.98.woff2") format("woff2"), url("500.98.woff") format("woff");
   unicode-range: U+215B-215E, U+2162-2169, U+2170-2179, U+2195-2199, U+21B0-21B4,
     U+21BC, U+21C0, U+21C4-21C5, U+21CD, U+21CF-21D4, U+21E0-21E3, U+21E6-21E9,
     U+2200, U+2202-2203, U+2206-2209, U+220B-220C, U+220F, U+2211, U+2213,
@@ -1856,8 +1737,7 @@
   font-family: "dodapayw";
   font-weight: 500;
   font-display: swap;
-  src: local("PAYW Pro"), url("500.99.woff2") format("woff2"),
-    url("500.99.woff") format("woff");
+  src: url("500.99.woff2") format("woff2"), url("500.99.woff") format("woff");
   unicode-range: U+81-82, U+84, U+A2-A5, U+A7-A8, U+AA, U+AC-AD, U+B1-B3, U+B6,
     U+B8-BA, U+BC-BE, U+C0, U+C2, U+C6-CB, U+CE-D0, U+D4, U+D8-D9, U+DB-DC,
     U+DE-DF, U+E6, U+EB, U+EE-F0, U+F4, U+F7-F9, U+FB, U+FE-FF, U+111, U+126-127,
