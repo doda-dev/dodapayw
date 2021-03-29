@@ -1,0 +1,6 @@
+**/.*
+node_modules/
+test.html
+400/test.html
+500/test.html
+600/test.html

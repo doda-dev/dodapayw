@@ -1,0 +1,9 @@
+{
+  "name": "dodapayw",
+  "version": "1.0.0",
+  "description": "Font files for the PAYW pro",
+  "main": "index.js",
+  "repository": "https://github.com/doda-dev/dodapayw.git",
+  "author": "ddark <ddark.kr@gmail.com>",
+  "license": "OFL-1.1"
+}
